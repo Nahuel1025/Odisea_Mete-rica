@@ -14,3 +14,2300 @@ data_*/
 #Builds/
 #Documentacion/
 #AssetsTemporales
+TemporalAssets/Font/Fonts/Kenney Blocks.ttf
+TemporalAssets/Font/Fonts/Kenney Future Narrow.ttf
+TemporalAssets/Font/Fonts/Kenney Future.ttf
+TemporalAssets/Font/Fonts/Kenney High Square.ttf
+TemporalAssets/Font/Fonts/Kenney High.ttf
+TemporalAssets/Font/Fonts/Kenney Mini Square Mono.ttf
+TemporalAssets/Font/Fonts/Kenney Mini Square.ttf
+TemporalAssets/Font/Fonts/Kenney Mini.ttf
+TemporalAssets/Font/Fonts/Kenney Pixel Square.ttf
+TemporalAssets/Font/Fonts/Kenney Pixel.ttf
+TemporalAssets/Font/Fonts/Kenney Rocket Square.ttf
+TemporalAssets/Font/Fonts/Kenney Rocket.ttf
+TemporalAssets/Font/License.txt
+TemporalAssets/Simplespace/Kenney.url
+TemporalAssets/Simplespace/License.txt
+TemporalAssets/Simplespace/Patreon.url
+TemporalAssets/Simplespace/PNG/Default/effect_purple.png
+TemporalAssets/Simplespace/PNG/Default/effect_purple.png.import
+TemporalAssets/Simplespace/PNG/Default/effect_yellow.png
+TemporalAssets/Simplespace/PNG/Default/effect_yellow.png.import
+TemporalAssets/Simplespace/PNG/Default/enemy_A.png
+TemporalAssets/Simplespace/PNG/Default/enemy_A.png.import
+TemporalAssets/Simplespace/PNG/Default/enemy_B.png
+TemporalAssets/Simplespace/PNG/Default/enemy_B.png.import
+TemporalAssets/Simplespace/PNG/Default/enemy_C.png
+TemporalAssets/Simplespace/PNG/Default/enemy_C.png.import
+TemporalAssets/Simplespace/PNG/Default/enemy_D.png
+TemporalAssets/Simplespace/PNG/Default/enemy_D.png.import
+TemporalAssets/Simplespace/PNG/Default/enemy_E.png
+TemporalAssets/Simplespace/PNG/Default/enemy_E.png.import
+TemporalAssets/Simplespace/PNG/Default/icon_crossLarge.png
+TemporalAssets/Simplespace/PNG/Default/icon_crossLarge.png.import
+TemporalAssets/Simplespace/PNG/Default/icon_crossSmall.png
+TemporalAssets/Simplespace/PNG/Default/icon_crossSmall.png.import
+TemporalAssets/Simplespace/PNG/Default/icon_exclamationLarge.png
+TemporalAssets/Simplespace/PNG/Default/icon_exclamationLarge.png.import
+TemporalAssets/Simplespace/PNG/Default/icon_exclamationSmall.png
+TemporalAssets/Simplespace/PNG/Default/icon_exclamationSmall.png.import
+TemporalAssets/Simplespace/PNG/Default/icon_plusLarge.png
+TemporalAssets/Simplespace/PNG/Default/icon_plusLarge.png.import
+TemporalAssets/Simplespace/PNG/Default/icon_plusSmall.png
+TemporalAssets/Simplespace/PNG/Default/icon_plusSmall.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_detailedLarge.png
+TemporalAssets/Simplespace/PNG/Default/meteor_detailedLarge.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_detailedSmall.png
+TemporalAssets/Simplespace/PNG/Default/meteor_detailedSmall.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_large.png
+TemporalAssets/Simplespace/PNG/Default/meteor_large.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_small.png
+TemporalAssets/Simplespace/PNG/Default/meteor_small.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_squareDetailedLarge.png
+TemporalAssets/Simplespace/PNG/Default/meteor_squareDetailedLarge.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_squareDetailedSmall.png
+TemporalAssets/Simplespace/PNG/Default/meteor_squareDetailedSmall.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_squareLarge.png
+TemporalAssets/Simplespace/PNG/Default/meteor_squareLarge.png.import
+TemporalAssets/Simplespace/PNG/Default/meteor_squareSmall.png
+TemporalAssets/Simplespace/PNG/Default/meteor_squareSmall.png.import
+TemporalAssets/Simplespace/PNG/Default/satellite_A.png
+TemporalAssets/Simplespace/PNG/Default/satellite_A.png.import
+TemporalAssets/Simplespace/PNG/Default/satellite_B.png
+TemporalAssets/Simplespace/PNG/Default/satellite_B.png.import
+TemporalAssets/Simplespace/PNG/Default/satellite_C.png
+TemporalAssets/Simplespace/PNG/Default/satellite_C.png.import
+TemporalAssets/Simplespace/PNG/Default/satellite_D.png
+TemporalAssets/Simplespace/PNG/Default/satellite_D.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_A.png
+TemporalAssets/Simplespace/PNG/Default/ship_A.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_B.png
+TemporalAssets/Simplespace/PNG/Default/ship_B.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_C.png
+TemporalAssets/Simplespace/PNG/Default/ship_C.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_D.png
+TemporalAssets/Simplespace/PNG/Default/ship_D.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_E.png
+TemporalAssets/Simplespace/PNG/Default/ship_E.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_F.png
+TemporalAssets/Simplespace/PNG/Default/ship_F.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_G.png
+TemporalAssets/Simplespace/PNG/Default/ship_G.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_H.png
+TemporalAssets/Simplespace/PNG/Default/ship_H.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_I.png
+TemporalAssets/Simplespace/PNG/Default/ship_I.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_J.png
+TemporalAssets/Simplespace/PNG/Default/ship_J.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_K.png
+TemporalAssets/Simplespace/PNG/Default/ship_K.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_L.png
+TemporalAssets/Simplespace/PNG/Default/ship_L.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_sidesA.png
+TemporalAssets/Simplespace/PNG/Default/ship_sidesA.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_sidesB.png
+TemporalAssets/Simplespace/PNG/Default/ship_sidesB.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_sidesC.png
+TemporalAssets/Simplespace/PNG/Default/ship_sidesC.png.import
+TemporalAssets/Simplespace/PNG/Default/ship_sidesD.png
+TemporalAssets/Simplespace/PNG/Default/ship_sidesD.png.import
+TemporalAssets/Simplespace/PNG/Default/star_large.png
+TemporalAssets/Simplespace/PNG/Default/star_large.png.import
+TemporalAssets/Simplespace/PNG/Default/star_medium.png
+TemporalAssets/Simplespace/PNG/Default/star_medium.png.import
+TemporalAssets/Simplespace/PNG/Default/star_small.png
+TemporalAssets/Simplespace/PNG/Default/star_small.png.import
+TemporalAssets/Simplespace/PNG/Default/star_tiny.png
+TemporalAssets/Simplespace/PNG/Default/star_tiny.png.import
+TemporalAssets/Simplespace/PNG/Default/station_A.png
+TemporalAssets/Simplespace/PNG/Default/station_A.png.import
+TemporalAssets/Simplespace/PNG/Default/station_B.png
+TemporalAssets/Simplespace/PNG/Default/station_B.png.import
+TemporalAssets/Simplespace/PNG/Default/station_C.png
+TemporalAssets/Simplespace/PNG/Default/station_C.png.import
+TemporalAssets/Simplespace/PNG/Retina/effect_purple.png
+TemporalAssets/Simplespace/PNG/Retina/effect_purple.png.import
+TemporalAssets/Simplespace/PNG/Retina/effect_yellow.png
+TemporalAssets/Simplespace/PNG/Retina/effect_yellow.png.import
+TemporalAssets/Simplespace/PNG/Retina/enemy_A.png
+TemporalAssets/Simplespace/PNG/Retina/enemy_A.png.import
+TemporalAssets/Simplespace/PNG/Retina/enemy_B.png
+TemporalAssets/Simplespace/PNG/Retina/enemy_B.png.import
+TemporalAssets/Simplespace/PNG/Retina/enemy_C.png
+TemporalAssets/Simplespace/PNG/Retina/enemy_C.png.import
+TemporalAssets/Simplespace/PNG/Retina/enemy_D.png
+TemporalAssets/Simplespace/PNG/Retina/enemy_D.png.import
+TemporalAssets/Simplespace/PNG/Retina/enemy_E.png
+TemporalAssets/Simplespace/PNG/Retina/enemy_E.png.import
+TemporalAssets/Simplespace/PNG/Retina/icon_crossLarge.png
+TemporalAssets/Simplespace/PNG/Retina/icon_crossLarge.png.import
+TemporalAssets/Simplespace/PNG/Retina/icon_crossSmall.png
+TemporalAssets/Simplespace/PNG/Retina/icon_crossSmall.png.import
+TemporalAssets/Simplespace/PNG/Retina/icon_exclamationLarge.png
+TemporalAssets/Simplespace/PNG/Retina/icon_exclamationLarge.png.import
+TemporalAssets/Simplespace/PNG/Retina/icon_exclamationSmall.png
+TemporalAssets/Simplespace/PNG/Retina/icon_exclamationSmall.png.import
+TemporalAssets/Simplespace/PNG/Retina/icon_plusLarge.png
+TemporalAssets/Simplespace/PNG/Retina/icon_plusLarge.png.import
+TemporalAssets/Simplespace/PNG/Retina/icon_plusSmall.png
+TemporalAssets/Simplespace/PNG/Retina/icon_plusSmall.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_detailedLarge.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_detailedLarge.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_detailedSmall.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_detailedSmall.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_large.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_large.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_small.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_small.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareDetailedLarge.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareDetailedLarge.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareDetailedSmall.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareDetailedSmall.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareLarge.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareLarge.png.import
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareSmall.png
+TemporalAssets/Simplespace/PNG/Retina/meteor_squareSmall.png.import
+TemporalAssets/Simplespace/PNG/Retina/satellite_A.png
+TemporalAssets/Simplespace/PNG/Retina/satellite_A.png.import
+TemporalAssets/Simplespace/PNG/Retina/satellite_B.png
+TemporalAssets/Simplespace/PNG/Retina/satellite_B.png.import
+TemporalAssets/Simplespace/PNG/Retina/satellite_C.png
+TemporalAssets/Simplespace/PNG/Retina/satellite_C.png.import
+TemporalAssets/Simplespace/PNG/Retina/satellite_D.png
+TemporalAssets/Simplespace/PNG/Retina/satellite_D.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_A.png
+TemporalAssets/Simplespace/PNG/Retina/ship_A.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_B.png
+TemporalAssets/Simplespace/PNG/Retina/ship_B.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_C.png
+TemporalAssets/Simplespace/PNG/Retina/ship_C.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_D.png
+TemporalAssets/Simplespace/PNG/Retina/ship_D.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_E.png
+TemporalAssets/Simplespace/PNG/Retina/ship_E.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_F.png
+TemporalAssets/Simplespace/PNG/Retina/ship_F.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_G.png
+TemporalAssets/Simplespace/PNG/Retina/ship_G.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_H.png
+TemporalAssets/Simplespace/PNG/Retina/ship_H.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_I.png
+TemporalAssets/Simplespace/PNG/Retina/ship_I.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_J.png
+TemporalAssets/Simplespace/PNG/Retina/ship_J.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_K.png
+TemporalAssets/Simplespace/PNG/Retina/ship_K.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_L.png
+TemporalAssets/Simplespace/PNG/Retina/ship_L.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesA.png
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesA.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesB.png
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesB.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesC.png
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesC.png.import
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesD.png
+TemporalAssets/Simplespace/PNG/Retina/ship_sidesD.png.import
+TemporalAssets/Simplespace/PNG/Retina/star_large.png
+TemporalAssets/Simplespace/PNG/Retina/star_large.png.import
+TemporalAssets/Simplespace/PNG/Retina/star_medium.png
+TemporalAssets/Simplespace/PNG/Retina/star_medium.png.import
+TemporalAssets/Simplespace/PNG/Retina/star_small.png
+TemporalAssets/Simplespace/PNG/Retina/star_small.png.import
+TemporalAssets/Simplespace/PNG/Retina/star_tiny.png
+TemporalAssets/Simplespace/PNG/Retina/star_tiny.png.import
+TemporalAssets/Simplespace/PNG/Retina/station_A.png
+TemporalAssets/Simplespace/PNG/Retina/station_A.png.import
+TemporalAssets/Simplespace/PNG/Retina/station_B.png
+TemporalAssets/Simplespace/PNG/Retina/station_B.png.import
+TemporalAssets/Simplespace/PNG/Retina/station_C.png
+TemporalAssets/Simplespace/PNG/Retina/station_C.png.import
+TemporalAssets/Simplespace/Preview.png
+TemporalAssets/Simplespace/Preview.png.import
+TemporalAssets/Simplespace/Sample.png
+TemporalAssets/Simplespace/Sample.png.import
+TemporalAssets/Simplespace/Spritesheet/simpleSpace_sheet.png
+TemporalAssets/Simplespace/Spritesheet/simpleSpace_sheet.png.import
+TemporalAssets/Simplespace/Spritesheet/simpleSpace_sheet.xml
+TemporalAssets/Simplespace/Spritesheet/simpleSpace_sheet@2.png
+TemporalAssets/Simplespace/Spritesheet/simpleSpace_sheet@2.png.import
+TemporalAssets/Simplespace/Spritesheet/simpleSpace_sheet@2.xml
+TemporalAssets/Simplespace/Tilesheet/simpleSpace_tilesheet.png
+TemporalAssets/Simplespace/Tilesheet/simpleSpace_tilesheet.png.import
+TemporalAssets/Simplespace/Tilesheet/simpleSpace_tilesheet@2.png
+TemporalAssets/Simplespace/Tilesheet/simpleSpace_tilesheet@2.png.import
+TemporalAssets/Simplespace/Vector/simpleSpace_vector.svg
+TemporalAssets/Simplespace/Vector/simpleSpace_vector.svg.import
+TemporalAssets/Simplespace/Vector/simpleSpace_vector.swf
+TemporalAssets/Sounds/Audio/computerNoise_000.ogg
+TemporalAssets/Sounds/Audio/computerNoise_000.ogg.import
+TemporalAssets/Sounds/Audio/computerNoise_001.ogg
+TemporalAssets/Sounds/Audio/computerNoise_001.ogg.import
+TemporalAssets/Sounds/Audio/computerNoise_002.ogg
+TemporalAssets/Sounds/Audio/computerNoise_002.ogg.import
+TemporalAssets/Sounds/Audio/computerNoise_003.ogg
+TemporalAssets/Sounds/Audio/computerNoise_003.ogg.import
+TemporalAssets/Sounds/Audio/desktop.ini
+TemporalAssets/Sounds/Audio/doorClose_000.ogg
+TemporalAssets/Sounds/Audio/doorClose_000.ogg.import
+TemporalAssets/Sounds/Audio/doorClose_001.ogg
+TemporalAssets/Sounds/Audio/doorClose_001.ogg.import
+TemporalAssets/Sounds/Audio/doorClose_002.ogg
+TemporalAssets/Sounds/Audio/doorClose_002.ogg.import
+TemporalAssets/Sounds/Audio/doorOpen_000.ogg
+TemporalAssets/Sounds/Audio/doorOpen_000.ogg.import
+TemporalAssets/Sounds/Audio/doorOpen_001.ogg
+TemporalAssets/Sounds/Audio/doorOpen_001.ogg.import
+TemporalAssets/Sounds/Audio/doorOpen_002.ogg
+TemporalAssets/Sounds/Audio/doorOpen_002.ogg.import
+TemporalAssets/Sounds/Audio/engineCircular_000.ogg
+TemporalAssets/Sounds/Audio/engineCircular_000.ogg.import
+TemporalAssets/Sounds/Audio/engineCircular_001.ogg
+TemporalAssets/Sounds/Audio/engineCircular_001.ogg.import
+TemporalAssets/Sounds/Audio/engineCircular_002.ogg
+TemporalAssets/Sounds/Audio/engineCircular_002.ogg.import
+TemporalAssets/Sounds/Audio/engineCircular_003.ogg
+TemporalAssets/Sounds/Audio/engineCircular_003.ogg.import
+TemporalAssets/Sounds/Audio/engineCircular_004.ogg
+TemporalAssets/Sounds/Audio/engineCircular_004.ogg.import
+TemporalAssets/Sounds/Audio/explosionCrunch_000.ogg
+TemporalAssets/Sounds/Audio/explosionCrunch_000.ogg.import
+TemporalAssets/Sounds/Audio/explosionCrunch_001.ogg
+TemporalAssets/Sounds/Audio/explosionCrunch_001.ogg.import
+TemporalAssets/Sounds/Audio/explosionCrunch_002.ogg
+TemporalAssets/Sounds/Audio/explosionCrunch_002.ogg.import
+TemporalAssets/Sounds/Audio/explosionCrunch_003.ogg
+TemporalAssets/Sounds/Audio/explosionCrunch_003.ogg.import
+TemporalAssets/Sounds/Audio/explosionCrunch_004.ogg
+TemporalAssets/Sounds/Audio/explosionCrunch_004.ogg.import
+TemporalAssets/Sounds/Audio/forceField_000.ogg
+TemporalAssets/Sounds/Audio/forceField_000.ogg.import
+TemporalAssets/Sounds/Audio/forceField_001.ogg
+TemporalAssets/Sounds/Audio/forceField_001.ogg.import
+TemporalAssets/Sounds/Audio/forceField_002.ogg
+TemporalAssets/Sounds/Audio/forceField_002.ogg.import
+TemporalAssets/Sounds/Audio/forceField_003.ogg
+TemporalAssets/Sounds/Audio/forceField_003.ogg.import
+TemporalAssets/Sounds/Audio/forceField_004.ogg
+TemporalAssets/Sounds/Audio/forceField_004.ogg.import
+TemporalAssets/Sounds/Audio/impactMetal_000.ogg
+TemporalAssets/Sounds/Audio/impactMetal_000.ogg.import
+TemporalAssets/Sounds/Audio/impactMetal_001.ogg
+TemporalAssets/Sounds/Audio/impactMetal_001.ogg.import
+TemporalAssets/Sounds/Audio/impactMetal_002.ogg
+TemporalAssets/Sounds/Audio/impactMetal_002.ogg.import
+TemporalAssets/Sounds/Audio/impactMetal_003.ogg
+TemporalAssets/Sounds/Audio/impactMetal_003.ogg.import
+TemporalAssets/Sounds/Audio/impactMetal_004.ogg
+TemporalAssets/Sounds/Audio/impactMetal_004.ogg.import
+TemporalAssets/Sounds/Audio/laserLarge_000.ogg
+TemporalAssets/Sounds/Audio/laserLarge_000.ogg.import
+TemporalAssets/Sounds/Audio/laserLarge_001.ogg
+TemporalAssets/Sounds/Audio/laserLarge_001.ogg.import
+TemporalAssets/Sounds/Audio/laserLarge_002.ogg
+TemporalAssets/Sounds/Audio/laserLarge_002.ogg.import
+TemporalAssets/Sounds/Audio/laserLarge_003.ogg
+TemporalAssets/Sounds/Audio/laserLarge_003.ogg.import
+TemporalAssets/Sounds/Audio/laserLarge_004.ogg
+TemporalAssets/Sounds/Audio/laserLarge_004.ogg.import
+TemporalAssets/Sounds/Audio/laserRetro_000.ogg
+TemporalAssets/Sounds/Audio/laserRetro_000.ogg.import
+TemporalAssets/Sounds/Audio/laserRetro_001.ogg
+TemporalAssets/Sounds/Audio/laserRetro_001.ogg.import
+TemporalAssets/Sounds/Audio/laserRetro_002.ogg
+TemporalAssets/Sounds/Audio/laserRetro_002.ogg.import
+TemporalAssets/Sounds/Audio/laserRetro_003.ogg
+TemporalAssets/Sounds/Audio/laserRetro_003.ogg.import
+TemporalAssets/Sounds/Audio/laserRetro_004.ogg
+TemporalAssets/Sounds/Audio/laserRetro_004.ogg.import
+TemporalAssets/Sounds/Audio/laserSmall_000.ogg
+TemporalAssets/Sounds/Audio/laserSmall_000.ogg.import
+TemporalAssets/Sounds/Audio/laserSmall_001.ogg
+TemporalAssets/Sounds/Audio/laserSmall_001.ogg.import
+TemporalAssets/Sounds/Audio/laserSmall_002.ogg
+TemporalAssets/Sounds/Audio/laserSmall_002.ogg.import
+TemporalAssets/Sounds/Audio/laserSmall_003.ogg
+TemporalAssets/Sounds/Audio/laserSmall_003.ogg.import
+TemporalAssets/Sounds/Audio/laserSmall_004.ogg
+TemporalAssets/Sounds/Audio/laserSmall_004.ogg.import
+TemporalAssets/Sounds/Audio/lowFrequency_explosion_000.ogg
+TemporalAssets/Sounds/Audio/lowFrequency_explosion_000.ogg.import
+TemporalAssets/Sounds/Audio/lowFrequency_explosion_001.ogg
+TemporalAssets/Sounds/Audio/lowFrequency_explosion_001.ogg.import
+TemporalAssets/Sounds/Audio/slime_000.ogg
+TemporalAssets/Sounds/Audio/slime_000.ogg.import
+TemporalAssets/Sounds/Audio/slime_001.ogg
+TemporalAssets/Sounds/Audio/slime_001.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngine_000.ogg
+TemporalAssets/Sounds/Audio/spaceEngine_000.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngine_001.ogg
+TemporalAssets/Sounds/Audio/spaceEngine_001.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngine_002.ogg
+TemporalAssets/Sounds/Audio/spaceEngine_002.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngine_003.ogg
+TemporalAssets/Sounds/Audio/spaceEngine_003.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLarge_000.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLarge_000.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLarge_001.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLarge_001.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLarge_002.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLarge_002.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLarge_003.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLarge_003.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLarge_004.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLarge_004.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLow_000.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLow_000.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLow_001.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLow_001.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLow_002.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLow_002.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLow_003.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLow_003.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineLow_004.ogg
+TemporalAssets/Sounds/Audio/spaceEngineLow_004.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineSmall_000.ogg
+TemporalAssets/Sounds/Audio/spaceEngineSmall_000.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineSmall_001.ogg
+TemporalAssets/Sounds/Audio/spaceEngineSmall_001.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineSmall_002.ogg
+TemporalAssets/Sounds/Audio/spaceEngineSmall_002.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineSmall_003.ogg
+TemporalAssets/Sounds/Audio/spaceEngineSmall_003.ogg.import
+TemporalAssets/Sounds/Audio/spaceEngineSmall_004.ogg
+TemporalAssets/Sounds/Audio/spaceEngineSmall_004.ogg.import
+TemporalAssets/Sounds/Audio/thrusterFire_000.ogg
+TemporalAssets/Sounds/Audio/thrusterFire_000.ogg.import
+TemporalAssets/Sounds/Audio/thrusterFire_001.ogg
+TemporalAssets/Sounds/Audio/thrusterFire_001.ogg.import
+TemporalAssets/Sounds/Audio/thrusterFire_002.ogg
+TemporalAssets/Sounds/Audio/thrusterFire_002.ogg.import
+TemporalAssets/Sounds/Audio/thrusterFire_003.ogg
+TemporalAssets/Sounds/Audio/thrusterFire_003.ogg.import
+TemporalAssets/Sounds/Audio/thrusterFire_004.ogg
+TemporalAssets/Sounds/Audio/thrusterFire_004.ogg.import
+TemporalAssets/Sounds/Kenney.url
+TemporalAssets/Sounds/License.txt
+TemporalAssets/Sounds/Patreon.url
+TemporalAssets/Spaceshooter/Backgrounds/black.png
+TemporalAssets/Spaceshooter/Backgrounds/black.png.import
+TemporalAssets/Spaceshooter/Backgrounds/blue.png
+TemporalAssets/Spaceshooter/Backgrounds/blue.png.import
+TemporalAssets/Spaceshooter/Backgrounds/darkPurple.png
+TemporalAssets/Spaceshooter/Backgrounds/darkPurple.png.import
+TemporalAssets/Spaceshooter/Backgrounds/purple.png
+TemporalAssets/Spaceshooter/Backgrounds/purple.png.import
+TemporalAssets/Spaceshooter/Bonus/kenvector_future.ttf
+TemporalAssets/Spaceshooter/Bonus/kenvector_future_thin.ttf
+TemporalAssets/Spaceshooter/Bonus/sfx_laser1.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_laser1.ogg.import
+TemporalAssets/Spaceshooter/Bonus/sfx_laser2.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_laser2.ogg.import
+TemporalAssets/Spaceshooter/Bonus/sfx_lose.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_lose.ogg.import
+TemporalAssets/Spaceshooter/Bonus/sfx_shieldDown.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_shieldDown.ogg.import
+TemporalAssets/Spaceshooter/Bonus/sfx_shieldUp.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_shieldUp.ogg.import
+TemporalAssets/Spaceshooter/Bonus/sfx_twoTone.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_twoTone.ogg.import
+TemporalAssets/Spaceshooter/Bonus/sfx_zap.ogg
+TemporalAssets/Spaceshooter/Bonus/sfx_zap.ogg.import
+TemporalAssets/Spaceshooter/license.txt
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip1_damage1.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip1_damage1.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip1_damage2.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip1_damage2.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip1_damage3.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip1_damage3.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip2_damage1.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip2_damage1.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip2_damage2.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip2_damage2.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip2_damage3.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip2_damage3.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip3_damage1.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip3_damage1.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip3_damage2.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip3_damage2.png.import
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip3_damage3.png
+TemporalAssets/Spaceshooter/PNG/Damage/playerShip3_damage3.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire00.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire00.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire01.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire01.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire02.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire02.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire03.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire03.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire04.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire04.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire05.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire05.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire06.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire06.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire07.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire07.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire08.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire08.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire09.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire09.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire10.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire10.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire11.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire11.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire12.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire12.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire13.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire13.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire14.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire14.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire15.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire15.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire16.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire16.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire17.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire17.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire18.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire18.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/fire19.png
+TemporalAssets/Spaceshooter/PNG/Effects/fire19.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/shield1.png
+TemporalAssets/Spaceshooter/PNG/Effects/shield1.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/shield2.png
+TemporalAssets/Spaceshooter/PNG/Effects/shield2.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/shield3.png
+TemporalAssets/Spaceshooter/PNG/Effects/shield3.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/speed.png
+TemporalAssets/Spaceshooter/PNG/Effects/speed.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/star1.png
+TemporalAssets/Spaceshooter/PNG/Effects/star1.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/star2.png
+TemporalAssets/Spaceshooter/PNG/Effects/star2.png.import
+TemporalAssets/Spaceshooter/PNG/Effects/star3.png
+TemporalAssets/Spaceshooter/PNG/Effects/star3.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack1.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack1.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack2.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack2.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack3.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack3.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack4.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack4.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack5.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlack5.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue1.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue1.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue2.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue2.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue3.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue3.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue4.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue4.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue5.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyBlue5.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen1.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen1.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen2.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen2.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen3.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen3.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen4.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen4.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen5.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyGreen5.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed1.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed1.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed2.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed2.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed3.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed3.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed4.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed4.png.import
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed5.png
+TemporalAssets/Spaceshooter/PNG/Enemies/enemyRed5.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue01.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue01.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue02.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue02.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue03.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue03.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue04.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue04.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue05.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue05.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue06.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue06.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue07.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue07.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue08.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue08.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue09.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue09.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue10.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue10.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue11.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue11.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue12.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue12.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue13.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue13.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue14.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue14.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue15.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue15.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue16.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserBlue16.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen01.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen01.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen02.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen02.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen03.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen03.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen04.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen04.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen05.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen05.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen06.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen06.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen07.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen07.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen08.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen08.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen09.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen09.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen10.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen10.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen11.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen11.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen12.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen12.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen13.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen13.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen14.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen14.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen15.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen15.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen16.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserGreen16.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed01.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed01.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed02.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed02.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed03.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed03.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed04.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed04.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed05.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed05.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed06.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed06.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed07.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed07.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed08.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed08.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed09.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed09.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed10.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed10.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed11.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed11.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed12.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed12.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed13.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed13.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed14.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed14.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed15.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed15.png.import
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed16.png
+TemporalAssets/Spaceshooter/PNG/Lasers/laserRed16.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big2.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big3.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big3.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big4.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_big4.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_med1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_med1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_med3.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_med3.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_small1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_small1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_small2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_small2.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_tiny1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_tiny1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_tiny2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorBrown_tiny2.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big2.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big3.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big3.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big4.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_big4.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_med1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_med1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_med2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_med2.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_small1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_small1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_small2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_small2.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_tiny1.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_tiny1.png.import
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_tiny2.png
+TemporalAssets/Spaceshooter/PNG/Meteors/meteorGrey_tiny2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam0.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam1.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam2.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam3.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam4.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam5.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beam6.png
+TemporalAssets/Spaceshooter/PNG/Parts/beam6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beamLong1.png
+TemporalAssets/Spaceshooter/PNG/Parts/beamLong1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/beamLong2.png
+TemporalAssets/Spaceshooter/PNG/Parts/beamLong2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitBlue_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitGreen_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitRed_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/cockpitYellow_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/engine1.png
+TemporalAssets/Spaceshooter/PNG/Parts/engine1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/engine2.png
+TemporalAssets/Spaceshooter/PNG/Parts/engine2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/engine3.png
+TemporalAssets/Spaceshooter/PNG/Parts/engine3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/engine4.png
+TemporalAssets/Spaceshooter/PNG/Parts/engine4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/engine5.png
+TemporalAssets/Spaceshooter/PNG/Parts/engine5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun00.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun00.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun01.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun01.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun02.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun02.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun03.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun03.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun04.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun04.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun05.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun05.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun06.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun06.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun07.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun07.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun08.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun08.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun09.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun09.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/gun10.png
+TemporalAssets/Spaceshooter/PNG/Parts/gun10.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/scratch1.png
+TemporalAssets/Spaceshooter/PNG/Parts/scratch1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/scratch2.png
+TemporalAssets/Spaceshooter/PNG/Parts/scratch2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/scratch3.png
+TemporalAssets/Spaceshooter/PNG/Parts/scratch3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/turretBase_big.png
+TemporalAssets/Spaceshooter/PNG/Parts/turretBase_big.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/turretBase_small.png
+TemporalAssets/Spaceshooter/PNG/Parts/turretBase_small.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingBlue_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingGreen_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingRed_7.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_0.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_0.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_1.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_1.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_2.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_2.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_3.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_3.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_4.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_4.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_5.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_5.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_6.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_6.png.import
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_7.png
+TemporalAssets/Spaceshooter/PNG/Parts/wingYellow_7.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip1_blue.png
+TemporalAssets/Spaceshooter/PNG/playerShip1_blue.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip1_green.png
+TemporalAssets/Spaceshooter/PNG/playerShip1_green.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip1_orange.png
+TemporalAssets/Spaceshooter/PNG/playerShip1_orange.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip1_red.png
+TemporalAssets/Spaceshooter/PNG/playerShip1_red.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip2_blue.png
+TemporalAssets/Spaceshooter/PNG/playerShip2_blue.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip2_green.png
+TemporalAssets/Spaceshooter/PNG/playerShip2_green.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip2_orange.png
+TemporalAssets/Spaceshooter/PNG/playerShip2_orange.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip2_red.png
+TemporalAssets/Spaceshooter/PNG/playerShip2_red.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip3_blue.png
+TemporalAssets/Spaceshooter/PNG/playerShip3_blue.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip3_green.png
+TemporalAssets/Spaceshooter/PNG/playerShip3_green.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip3_orange.png
+TemporalAssets/Spaceshooter/PNG/playerShip3_orange.png.import
+TemporalAssets/Spaceshooter/PNG/playerShip3_red.png
+TemporalAssets/Spaceshooter/PNG/playerShip3_red.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/bold_silver.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/bold_silver.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/bolt_bronze.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/bolt_bronze.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/bolt_gold.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/bolt_gold.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_blue.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_blue.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_green.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_green.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_red.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_red.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_yellow.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/pill_yellow.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue_bolt.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue_bolt.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue_shield.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue_shield.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue_star.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupBlue_star.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen_bolt.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen_bolt.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen_shield.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen_shield.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen_star.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupGreen_star.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed_bolt.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed_bolt.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed_shield.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed_shield.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed_star.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupRed_star.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow_bolt.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow_bolt.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow_shield.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow_shield.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow_star.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/powerupYellow_star.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/shield_bronze.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/shield_bronze.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/shield_gold.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/shield_gold.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/shield_silver.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/shield_silver.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/star_bronze.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/star_bronze.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/star_gold.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/star_gold.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/star_silver.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/star_silver.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/things_bronze.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/things_bronze.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/things_gold.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/things_gold.png.import
+TemporalAssets/Spaceshooter/PNG/Power-ups/things_silver.png
+TemporalAssets/Spaceshooter/PNG/Power-ups/things_silver.png.import
+TemporalAssets/Spaceshooter/PNG/ufoBlue.png
+TemporalAssets/Spaceshooter/PNG/ufoBlue.png.import
+TemporalAssets/Spaceshooter/PNG/ufoGreen.png
+TemporalAssets/Spaceshooter/PNG/ufoGreen.png.import
+TemporalAssets/Spaceshooter/PNG/ufoRed.png
+TemporalAssets/Spaceshooter/PNG/ufoRed.png.import
+TemporalAssets/Spaceshooter/PNG/ufoYellow.png
+TemporalAssets/Spaceshooter/PNG/ufoYellow.png.import
+TemporalAssets/Spaceshooter/PNG/UI/buttonBlue.png
+TemporalAssets/Spaceshooter/PNG/UI/buttonBlue.png.import
+TemporalAssets/Spaceshooter/PNG/UI/buttonGreen.png
+TemporalAssets/Spaceshooter/PNG/UI/buttonGreen.png.import
+TemporalAssets/Spaceshooter/PNG/UI/buttonRed.png
+TemporalAssets/Spaceshooter/PNG/UI/buttonRed.png.import
+TemporalAssets/Spaceshooter/PNG/UI/buttonYellow.png
+TemporalAssets/Spaceshooter/PNG/UI/buttonYellow.png.import
+TemporalAssets/Spaceshooter/PNG/UI/cursor.png
+TemporalAssets/Spaceshooter/PNG/UI/cursor.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral0.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral0.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral1.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral1.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral2.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral2.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral3.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral3.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral4.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral4.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral5.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral5.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral6.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral6.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral7.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral7.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral8.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral8.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeral9.png
+TemporalAssets/Spaceshooter/PNG/UI/numeral9.png.import
+TemporalAssets/Spaceshooter/PNG/UI/numeralX.png
+TemporalAssets/Spaceshooter/PNG/UI/numeralX.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_blue.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_blue.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_green.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_green.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_orange.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_orange.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_red.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife1_red.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_blue.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_blue.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_green.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_green.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_orange.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_orange.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_red.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife2_red.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_blue.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_blue.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_green.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_green.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_orange.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_orange.png.import
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_red.png
+TemporalAssets/Spaceshooter/PNG/UI/playerLife3_red.png.import
+TemporalAssets/Spaceshooter/preview.png
+TemporalAssets/Spaceshooter/preview.png.import
+TemporalAssets/Spaceshooter/sample.png
+TemporalAssets/Spaceshooter/sample.png.import
+TemporalAssets/Spaceshooter/Spritesheet/sheet.png
+TemporalAssets/Spaceshooter/Spritesheet/sheet.png.import
+TemporalAssets/Spaceshooter/Spritesheet/sheet.xml
+TemporalAssets/Spaceshooter/Vector/sheet.svg
+TemporalAssets/Spaceshooter/Vector/sheet.svg.import
+TemporalAssets/Spaceshooter/Vector/sheet.swf
+TemporalAssets/Spacesshooter/License.txt
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Astronauts/spaceAstronauts_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Building/spaceBuilding_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Effects/spaceEffects_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Meteors/spaceMeteors_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_032.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_032.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_033.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_033.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_034.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_034.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_035.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_035.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_036.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_036.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_037.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_037.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_038.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_038.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_039.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_039.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_040.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Missiles/spaceMissiles_040.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_032.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_032.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_033.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_033.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_034.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_034.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_035.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_035.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_036.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_036.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_037.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_037.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_038.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_038.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_039.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_039.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_040.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_040.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_041.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_041.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_042.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_042.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_043.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_043.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_044.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_044.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_045.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_045.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_046.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_046.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_047.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_047.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_048.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_048.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_049.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_049.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_050.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_050.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_051.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_051.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_052.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_052.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_053.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_053.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_054.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_054.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_055.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_055.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_056.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_056.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_057.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_057.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_058.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_058.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_059.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_059.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_060.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_060.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_061.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_061.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_062.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_062.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_063.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_063.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_064.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_064.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_065.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_065.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_066.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_066.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_067.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_067.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_068.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_068.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_069.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_069.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_070.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_070.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_071.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_071.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_072.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_072.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_073.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_073.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_074.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_074.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_075.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_075.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_076.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_076.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_077.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_077.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_078.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_078.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_079.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_079.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_080.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_080.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_081.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_081.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_082.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_082.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_083.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_083.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_084.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_084.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_085.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_085.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_086.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_086.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_087.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_087.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_088.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_088.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_089.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_089.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_090.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_090.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_091.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_091.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_092.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_092.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_093.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_093.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_094.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_094.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_095.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_095.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_096.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_096.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_097.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_097.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_098.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Parts/spaceParts_098.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rocket parts/spaceRocketParts_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Rockets/spaceRockets_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Ships/spaceShips_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites X2/Station/spaceStation_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Astronauts/spaceAstronauts_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Building/spaceBuilding_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Effects/spaceEffects_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Meteors/spaceMeteors_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_032.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_032.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_033.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_033.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_034.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_034.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_035.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_035.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_036.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_036.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_037.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_037.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_038.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_038.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_039.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_039.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_040.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Missiles/spaceMissiles_040.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_032.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_032.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_033.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_033.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_034.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_034.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_035.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_035.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_036.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_036.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_037.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_037.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_038.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_038.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_039.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_039.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_040.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_040.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_041.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_041.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_042.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_042.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_043.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_043.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_044.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_044.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_045.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_045.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_046.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_046.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_047.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_047.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_048.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_048.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_049.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_049.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_050.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_050.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_051.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_051.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_052.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_052.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_053.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_053.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_054.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_054.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_055.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_055.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_056.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_056.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_057.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_057.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_058.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_058.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_059.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_059.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_060.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_060.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_061.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_061.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_062.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_062.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_063.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_063.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_064.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_064.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_065.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_065.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_066.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_066.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_067.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_067.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_068.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_068.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_069.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_069.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_070.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_070.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_071.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_071.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_072.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_072.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_073.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_073.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_074.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_074.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_075.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_075.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_076.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_076.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_077.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_077.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_078.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_078.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_079.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_079.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_080.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_080.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_081.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_081.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_082.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_082.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_083.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_083.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_084.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_084.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_085.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_085.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_086.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_086.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_087.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_087.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_088.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_088.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_089.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_089.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_090.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_090.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_091.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_091.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_092.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_092.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_093.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_093.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_094.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_094.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_095.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_095.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_096.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_096.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_097.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_097.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_098.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Parts/spaceParts_098.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rocket parts/spaceRocketParts_031.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Rockets/spaceRockets_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Ships/spaceShips_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_001.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_001.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_002.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_002.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_003.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_003.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_004.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_004.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_005.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_005.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_006.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_006.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_007.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_007.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_008.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_008.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_009.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_009.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_010.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_010.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_011.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_011.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_012.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_012.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_013.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_013.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_014.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_014.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_015.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_015.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_016.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_016.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_017.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_017.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_018.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_018.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_019.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_019.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_020.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_020.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_021.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_021.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_022.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_022.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_023.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_023.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_024.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_024.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_025.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_025.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_026.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_026.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_027.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_027.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_028.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_028.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_029.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_029.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_030.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_030.png.import
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_031.png
+TemporalAssets/Spacesshooter/PNG/Sprites/Station/spaceStation_031.png.import
+TemporalAssets/Spacesshooter/Preview.png
+TemporalAssets/Spacesshooter/Preview.png.import
+TemporalAssets/Spacesshooter/Preview_KenneyNL.png
+TemporalAssets/Spacesshooter/Preview_KenneyNL.png.import
+TemporalAssets/Spacesshooter/Sample.png
+TemporalAssets/Spacesshooter/Sample.png.import
+TemporalAssets/Spacesshooter/Spritesheet/spaceShooter2_spritesheet.png
+TemporalAssets/Spacesshooter/Spritesheet/spaceShooter2_spritesheet.png.import
+TemporalAssets/Spacesshooter/Spritesheet/spaceShooter2_spritesheet.xml
+TemporalAssets/Spacesshooter/Spritesheet/spaceShooter2_spritesheet_2X.png
+TemporalAssets/Spacesshooter/Spritesheet/spaceShooter2_spritesheet_2X.png.import
+TemporalAssets/Spacesshooter/Spritesheet/spaceShooter2_spritesheet_2X.xml
+TemporalAssets/Spacesshooter/Vector/spaceShooter2_vector.svg
+TemporalAssets/Spacesshooter/Vector/spaceShooter2_vector.svg.import
+TemporalAssets/Spacesshooter/Vector/spaceShooter2_vector.swf
+TemporalAssets/Unipack/Fonts/kenvector_future.ttf
+TemporalAssets/Unipack/Fonts/kenvector_future_thin.ttf
+TemporalAssets/Unipack/license.txt
+TemporalAssets/Unipack/PNG/barHorizontal_blue_left.png
+TemporalAssets/Unipack/PNG/barHorizontal_blue_left.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_blue_mid.png
+TemporalAssets/Unipack/PNG/barHorizontal_blue_mid.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_blue_right.png
+TemporalAssets/Unipack/PNG/barHorizontal_blue_right.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_green_left.png
+TemporalAssets/Unipack/PNG/barHorizontal_green_left.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_green_mid.png
+TemporalAssets/Unipack/PNG/barHorizontal_green_mid.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_green_right.png
+TemporalAssets/Unipack/PNG/barHorizontal_green_right.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_red_left.png
+TemporalAssets/Unipack/PNG/barHorizontal_red_left.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_red_mid.png
+TemporalAssets/Unipack/PNG/barHorizontal_red_mid.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_red_right.png
+TemporalAssets/Unipack/PNG/barHorizontal_red_right.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_shadow_left.png
+TemporalAssets/Unipack/PNG/barHorizontal_shadow_left.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_shadow_mid.png
+TemporalAssets/Unipack/PNG/barHorizontal_shadow_mid.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_shadow_right.png
+TemporalAssets/Unipack/PNG/barHorizontal_shadow_right.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_white_left.png
+TemporalAssets/Unipack/PNG/barHorizontal_white_left.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_white_mid.png
+TemporalAssets/Unipack/PNG/barHorizontal_white_mid.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_white_right.png
+TemporalAssets/Unipack/PNG/barHorizontal_white_right.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_yellow_left.png
+TemporalAssets/Unipack/PNG/barHorizontal_yellow_left.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_yellow_mid.png
+TemporalAssets/Unipack/PNG/barHorizontal_yellow_mid.png.import
+TemporalAssets/Unipack/PNG/barHorizontal_yellow_right.png
+TemporalAssets/Unipack/PNG/barHorizontal_yellow_right.png.import
+TemporalAssets/Unipack/PNG/barVertical_blue_bottom.png
+TemporalAssets/Unipack/PNG/barVertical_blue_bottom.png.import
+TemporalAssets/Unipack/PNG/barVertical_blue_mid.png
+TemporalAssets/Unipack/PNG/barVertical_blue_mid.png.import
+TemporalAssets/Unipack/PNG/barVertical_blue_top.png
+TemporalAssets/Unipack/PNG/barVertical_blue_top.png.import
+TemporalAssets/Unipack/PNG/barVertical_green_bottom.png
+TemporalAssets/Unipack/PNG/barVertical_green_bottom.png.import
+TemporalAssets/Unipack/PNG/barVertical_green_mid.png
+TemporalAssets/Unipack/PNG/barVertical_green_mid.png.import
+TemporalAssets/Unipack/PNG/barVertical_green_top.png
+TemporalAssets/Unipack/PNG/barVertical_green_top.png.import
+TemporalAssets/Unipack/PNG/barVertical_red_bottom.png
+TemporalAssets/Unipack/PNG/barVertical_red_bottom.png.import
+TemporalAssets/Unipack/PNG/barVertical_red_mid.png
+TemporalAssets/Unipack/PNG/barVertical_red_mid.png.import
+TemporalAssets/Unipack/PNG/barVertical_red_top.png
+TemporalAssets/Unipack/PNG/barVertical_red_top.png.import
+TemporalAssets/Unipack/PNG/barVertical_shadow_bottom.png
+TemporalAssets/Unipack/PNG/barVertical_shadow_bottom.png.import
+TemporalAssets/Unipack/PNG/barVertical_shadow_mid.png
+TemporalAssets/Unipack/PNG/barVertical_shadow_mid.png.import
+TemporalAssets/Unipack/PNG/barVertical_shadow_top.png
+TemporalAssets/Unipack/PNG/barVertical_shadow_top.png.import
+TemporalAssets/Unipack/PNG/barVertical_white_bottom.png
+TemporalAssets/Unipack/PNG/barVertical_white_bottom.png.import
+TemporalAssets/Unipack/PNG/barVertical_white_mid.png
+TemporalAssets/Unipack/PNG/barVertical_white_mid.png.import
+TemporalAssets/Unipack/PNG/barVertical_white_top.png
+TemporalAssets/Unipack/PNG/barVertical_white_top.png.import
+TemporalAssets/Unipack/PNG/barVertical_yellow_bottom.png
+TemporalAssets/Unipack/PNG/barVertical_yellow_bottom.png.import
+TemporalAssets/Unipack/PNG/barVertical_yellow_mid.png
+TemporalAssets/Unipack/PNG/barVertical_yellow_mid.png.import
+TemporalAssets/Unipack/PNG/barVertical_yellow_top.png
+TemporalAssets/Unipack/PNG/barVertical_yellow_top.png.import
+TemporalAssets/Unipack/PNG/crossair_black.png
+TemporalAssets/Unipack/PNG/crossair_black.png.import
+TemporalAssets/Unipack/PNG/crossair_blackOutline.png
+TemporalAssets/Unipack/PNG/crossair_blackOutline.png.import
+TemporalAssets/Unipack/PNG/crossair_blue.png
+TemporalAssets/Unipack/PNG/crossair_blue.png.import
+TemporalAssets/Unipack/PNG/crossair_blueOutline.png
+TemporalAssets/Unipack/PNG/crossair_blueOutline.png.import
+TemporalAssets/Unipack/PNG/crossair_red.png
+TemporalAssets/Unipack/PNG/crossair_red.png.import
+TemporalAssets/Unipack/PNG/crossair_redOutline.png
+TemporalAssets/Unipack/PNG/crossair_redOutline.png.import
+TemporalAssets/Unipack/PNG/crossair_white.png
+TemporalAssets/Unipack/PNG/crossair_white.png.import
+TemporalAssets/Unipack/PNG/crossair_whiteOutline.png
+TemporalAssets/Unipack/PNG/crossair_whiteOutline.png.import
+TemporalAssets/Unipack/PNG/cursor_hand.png
+TemporalAssets/Unipack/PNG/cursor_hand.png.import
+TemporalAssets/Unipack/PNG/cursor_pointer3D.png
+TemporalAssets/Unipack/PNG/cursor_pointer3D.png.import
+TemporalAssets/Unipack/PNG/cursor_pointer3D_shadow.png
+TemporalAssets/Unipack/PNG/cursor_pointer3D_shadow.png.import
+TemporalAssets/Unipack/PNG/cursor_pointerFlat.png
+TemporalAssets/Unipack/PNG/cursor_pointerFlat.png.import
+TemporalAssets/Unipack/PNG/cursor_pointerFlat_shadow.png
+TemporalAssets/Unipack/PNG/cursor_pointerFlat_shadow.png.import
+TemporalAssets/Unipack/PNG/dot_shadow.png
+TemporalAssets/Unipack/PNG/dot_shadow.png.import
+TemporalAssets/Unipack/PNG/dotBlue.png
+TemporalAssets/Unipack/PNG/dotBlue.png.import
+TemporalAssets/Unipack/PNG/dotGreen.png
+TemporalAssets/Unipack/PNG/dotGreen.png.import
+TemporalAssets/Unipack/PNG/dotRed.png
+TemporalAssets/Unipack/PNG/dotRed.png.import
+TemporalAssets/Unipack/PNG/dotWhite.png
+TemporalAssets/Unipack/PNG/dotWhite.png.import
+TemporalAssets/Unipack/PNG/dotYellow.png
+TemporalAssets/Unipack/PNG/dotYellow.png.import
+TemporalAssets/Unipack/PNG/glassPanel.png
+TemporalAssets/Unipack/PNG/glassPanel.png.import
+TemporalAssets/Unipack/PNG/glassPanel_cornerBL.png
+TemporalAssets/Unipack/PNG/glassPanel_cornerBL.png.import
+TemporalAssets/Unipack/PNG/glassPanel_cornerBR.png
+TemporalAssets/Unipack/PNG/glassPanel_cornerBR.png.import
+TemporalAssets/Unipack/PNG/glassPanel_corners.png
+TemporalAssets/Unipack/PNG/glassPanel_corners.png.import
+TemporalAssets/Unipack/PNG/glassPanel_cornerTL.png
+TemporalAssets/Unipack/PNG/glassPanel_cornerTL.png.import
+TemporalAssets/Unipack/PNG/glassPanel_cornerTR.png
+TemporalAssets/Unipack/PNG/glassPanel_cornerTR.png.import
+TemporalAssets/Unipack/PNG/glassPanel_projection.png
+TemporalAssets/Unipack/PNG/glassPanel_projection.png.import
+TemporalAssets/Unipack/PNG/glassPanel_tab.png
+TemporalAssets/Unipack/PNG/glassPanel_tab.png.import
+TemporalAssets/Unipack/PNG/metalPanel.png
+TemporalAssets/Unipack/PNG/metalPanel.png.import
+TemporalAssets/Unipack/PNG/metalPanel_blue.png
+TemporalAssets/Unipack/PNG/metalPanel_blue.png.import
+TemporalAssets/Unipack/PNG/metalPanel_blueCorner.png
+TemporalAssets/Unipack/PNG/metalPanel_blueCorner.png.import
+TemporalAssets/Unipack/PNG/metalPanel_green.png
+TemporalAssets/Unipack/PNG/metalPanel_green.png.import
+TemporalAssets/Unipack/PNG/metalPanel_greenCorner.png
+TemporalAssets/Unipack/PNG/metalPanel_greenCorner.png.import
+TemporalAssets/Unipack/PNG/metalPanel_plate.png
+TemporalAssets/Unipack/PNG/metalPanel_plate.png.import
+TemporalAssets/Unipack/PNG/metalPanel_red.png
+TemporalAssets/Unipack/PNG/metalPanel_red.png.import
+TemporalAssets/Unipack/PNG/metalPanel_redCorner.png
+TemporalAssets/Unipack/PNG/metalPanel_redCorner.png.import
+TemporalAssets/Unipack/PNG/metalPanel_yellow.png
+TemporalAssets/Unipack/PNG/metalPanel_yellow.png.import
+TemporalAssets/Unipack/PNG/metalPanel_yellowCorner.png
+TemporalAssets/Unipack/PNG/metalPanel_yellowCorner.png.import
+TemporalAssets/Unipack/PNG/square_shadow.png
+TemporalAssets/Unipack/PNG/square_shadow.png.import
+TemporalAssets/Unipack/PNG/squareBlue.png
+TemporalAssets/Unipack/PNG/squareBlue.png.import
+TemporalAssets/Unipack/PNG/squareGreen.png
+TemporalAssets/Unipack/PNG/squareGreen.png.import
+TemporalAssets/Unipack/PNG/squareRed.png
+TemporalAssets/Unipack/PNG/squareRed.png.import
+TemporalAssets/Unipack/PNG/squareWhite.png
+TemporalAssets/Unipack/PNG/squareWhite.png.import
+TemporalAssets/Unipack/PNG/squareYellow.png
+TemporalAssets/Unipack/PNG/squareYellow.png.import
+TemporalAssets/Unipack/preview.png
+TemporalAssets/Unipack/preview.png.import
+TemporalAssets/Unipack/sample.png
+TemporalAssets/Unipack/sample.png.import
+TemporalAssets/Unipack/Spritesheet/uipackSpace_sheet.png
+TemporalAssets/Unipack/Spritesheet/uipackSpace_sheet.png.import
+TemporalAssets/Unipack/Spritesheet/uipackSpace_sheet.xml
+TemporalAssets/Unipack/Vector/uipackSpace_vector.svg
+TemporalAssets/Unipack/Vector/uipackSpace_vector.svg.import
+TemporalAssets/Unipack/Vector/uipackSpace_vector.swf
