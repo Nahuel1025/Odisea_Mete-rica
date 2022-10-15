@@ -12,6 +12,7 @@ friction = 0.0
 radius = 35.6931
 
 [node name="NaveCapricornio" type="RigidBody2D"]
+collision_mask = 11
 mass = 0.14
 physics_material_override = SubResource( 2 )
 gravity_scale = 0.0
@@ -26,6 +27,7 @@ potencia_rotacion = 180
 position = Vector2( 0.75, -1.25 )
 rotation = 1.5708
 scale = Vector2( 1.01515, 1.03333 )
+z_index = 50
 texture = ExtResource( 1 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
