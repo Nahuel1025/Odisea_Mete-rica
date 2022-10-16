@@ -4,6 +4,7 @@ extends RigidBody2D
 ## Atributos Export
 export var potencia_motor:int = 20
 export var potencia_rotacion:int = 280 
+export var estela_maxima: int =150
 
 ## Atributos
 var empuje:Vector2 = Vector2.ZERO
@@ -13,6 +14,8 @@ var dir_rotacion:int = 0
 ## Atributos onready
 onready var canion: canion = $canion
 onready var laser:RayoLaser = $LaserBeam2D
+onready var estela:Estela = $EstelaPuntoInicio/Trail2D
+onready var motor_sfx:Motor = $MotorSFX
 
 
 ## Metodos
@@ -23,6 +26,19 @@ func _unhandled_input(event: InputEvent) -> void:
 
 	if event.is_action_released("Laser"):
 		laser.set_is_casting(false)
+
+# Contorl Estela
+	if event.is_action_pressed("mover_adelante"):
+		estela.set_max_points(estela_maxima)
+		motor_sfx.sonido_on()
+	elif event.is_action_pressed("mover_atras"):
+		estela.set_max_points(0)
+		motor_sfx.sonido_on()
+		
+	if (event.is_action_released("mover_adelante")
+		or event.is_action_released("mover_atras")):
+			motor_sfx.sonido_off()
+
 
 
 

@@ -9,6 +9,16 @@
 config_version=4
 
 _global_script_classes=[ {
+"base": "Line2D",
+"class": "Estela",
+"language": "GDScript",
+"path": "res://Juego/Naves/NaveCapricornio/Estela/Trail2D.gd"
+}, {
+"base": "AudioStreamPlayer2D",
+"class": "Motor",
+"language": "GDScript",
+"path": "res://Juego/Naves/Motor/MotorSFX.gd"
+}, {
 "base": "Node2D",
 "class": "Nivel",
 "language": "GDScript",
@@ -35,6 +45,8 @@ _global_script_classes=[ {
 "path": "res://Juego/Proyectiles/canion.gd"
 } ]
 _global_script_class_icons={
+"Estela": "",
+"Motor": "",
 "Nivel": "",
 "Player": "",
 "Proyectil": "",
