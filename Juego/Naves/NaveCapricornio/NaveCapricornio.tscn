@@ -48,7 +48,8 @@ tracks/0/keys = {
 }
 
 [node name="NaveCapricornio" type="RigidBody2D"]
-collision_mask = 11
+z_index = 50
+collision_mask = 22
 mass = 0.14
 physics_material_override = SubResource( 2 )
 gravity_scale = 0.0

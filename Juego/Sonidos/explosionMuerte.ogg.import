@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/explosionMuerte.ogg-abd33ef98899b5088659b4d5a672d72a.oggstr"
+
+[deps]
+
+source_file="res://Juego/Sonidos/explosionMuerte.ogg"
+dest_files=[ "res://.import/explosionMuerte.ogg-abd33ef98899b5088659b4d5a672d72a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

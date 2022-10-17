@@ -22,6 +22,7 @@ onready var laser:RayoLaser = $LaserBeam2D
 onready var estela:Estela = $EstelaPuntoInicio/Trail2D
 onready var motor_sfx:Motor = $MotorSFX
 onready var colisionador:CollisionShape2D = $CollisionShape2D
+onready var Explosion_sfx: AudioStreamPlayer2D = $Explosion_sfx
 
 ## metodos
 func _ready() -> void:
@@ -55,6 +56,9 @@ func _unhandled_input(event: InputEvent) -> void:
 func _integrate_forces(state: Physics2DDirectBodyState) -> void:
 	apply_central_impulse(empuje.rotated(rotation))
 	apply_torque_impulse(dir_rotacion * potencia_rotacion)
+	
+func destruir() -> void:
+	controlador_estados(ESTADO.MUERTO)
 
 ## metodos Custom
 func controlador_estados(nuevo_estado: int) -> void:
@@ -63,14 +67,16 @@ func controlador_estados(nuevo_estado: int) -> void:
 			colisionador.set_deferred("disabled", true)
 			canion.set_puede_disparar(false)
 		ESTADO.VIVO:
-			colisionador.set_deferred("disabled", true)
+			colisionador.set_deferred("disabled", false)
 			canion.set_puede_disparar(false)
 		ESTADO.INVENCIBLE:
 			colisionador.set_deferred("disabled", true)
 		ESTADO.MUERTO:
-			colisionador.set_deferred("disabled", true)
-			canion.set_puede_disparar(false)
+			colisionador.set_deferred("disabled", false)
+			canion.set_puede_disparar(true)
+			Eventos.emit_signal("nave_destruida", global_position, 3)
 			queue_free()
+			
 		_:
 			printerr("Error de estado")
 			
@@ -113,3 +119,6 @@ func _process(delta: float) -> void:
 func _on_AnimationPlayer_animation_finished(anim_name: String) -> void:
 	if anim_name == "spawn":
 		controlador_estados(ESTADO.VIVO)
+
+
+
