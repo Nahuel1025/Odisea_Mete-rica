@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=14 format=2]
 
 [ext_resource path="res://Juego/Naves/NaveCapricornio/NaveCapricornio.png" type="Texture" id=1]
 [ext_resource path="res://Juego/Naves/NaveCapricornio/NaveCapricornio.gd" type="Script" id=2]
@@ -6,6 +6,8 @@
 [ext_resource path="res://Juego/Proyectiles/LaserBeeam/LaserBeam2D.tscn" type="PackedScene" id=4]
 [ext_resource path="res://Juego/Naves/NaveCapricornio/Estela/Trail2D.tscn" type="PackedScene" id=5]
 [ext_resource path="res://Juego/Naves/Motor/MotorSFX.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Juego/Naves/NaveCapricornio/Escudo/Escudo.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Juego/Sonidos/Impacto.ogg" type="AudioStream" id=8]
 
 [sub_resource type="PhysicsMaterial" id=2]
 friction = 0.0
@@ -92,13 +94,19 @@ lifetime = 0.6
 max_points = 150
 target_path = NodePath("..")
 
-[node name="MotorSFX" parent="." instance=ExtResource( 6 )]
-
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 autoplay = "spawn"
 anims/RESET = SubResource( 3 )
 anims/default = SubResource( 4 )
 anims/spawn = SubResource( 5 )
+
+[node name="MotorSFX" parent="." instance=ExtResource( 6 )]
+
+[node name="Escudo" parent="." instance=ExtResource( 7 )]
+
+[node name="ImpactoSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 8 )
+bus = "SFX"
 
 [connection signal="animation_finished" from="AnimationPlayer" to="." method="_on_AnimationPlayer_animation_finished"]
 

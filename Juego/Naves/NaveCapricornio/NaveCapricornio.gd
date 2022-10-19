@@ -8,6 +8,7 @@ enum ESTADO {SPAWN, VIVO, INVENCIBLE, MUERTO}
 export var potencia_motor:int = 20
 export var potencia_rotacion:int = 280 
 export var estela_maxima: int =150
+export var hitpoints:float = 15.0
 
 ## Atributos
 var estado_actual:int = ESTADO.SPAWN
@@ -22,7 +23,9 @@ onready var laser:RayoLaser = $LaserBeam2D
 onready var estela:Estela = $EstelaPuntoInicio/Trail2D
 onready var motor_sfx:Motor = $MotorSFX
 onready var colisionador:CollisionShape2D = $CollisionShape2D
-onready var Explosion_sfx: AudioStreamPlayer2D = $Explosion_sfx
+onready var Explosion_sfx: AudioStreamPlayer2D = $ExplosionSFX
+onready var escudo:Escudo = $Escudo
+onready var impacto_sfx:AudioStreamPlayer = $ImpactoSFX
 
 ## metodos
 func _ready() -> void:
@@ -31,6 +34,10 @@ func _ready() -> void:
 func _unhandled_input(event: InputEvent) -> void:
 	if not esta_input_activo():
 		return
+	
+	# Control Escudo
+	if event.is_action_pressed("Escudo") and not escudo.get_esta_activado():
+		escudo.activar()
 	
 	#Disparo Rayo
 	if event.is_action_pressed("Laser"):
@@ -68,7 +75,7 @@ func controlador_estados(nuevo_estado: int) -> void:
 			canion.set_puede_disparar(false)
 		ESTADO.VIVO:
 			colisionador.set_deferred("disabled", false)
-			canion.set_puede_disparar(false)
+			canion.set_puede_disparar(true)
 		ESTADO.INVENCIBLE:
 			colisionador.set_deferred("disabled", true)
 		ESTADO.MUERTO:
@@ -76,6 +83,7 @@ func controlador_estados(nuevo_estado: int) -> void:
 			canion.set_puede_disparar(true)
 			Eventos.emit_signal("nave_destruida", global_position, 3)
 			queue_free()
+			
 			
 		_:
 			printerr("Error de estado")
@@ -120,5 +128,12 @@ func _on_AnimationPlayer_animation_finished(anim_name: String) -> void:
 	if anim_name == "spawn":
 		controlador_estados(ESTADO.VIVO)
 
-
+func recibir_danio(danio: float) -> void:
+	hitpoints -= danio
+	if hitpoints <= 0.0:
+		destruir()
+		
+	impacto_sfx.play()
+		
+	
 
