@@ -31,11 +31,5 @@ func _on_area_entered(area: Area2D) -> void:
 	daniar(area)
 	
 
-
-
 func _on_body_entered(body: Node) -> void:
 	daniar(body)
-
-
-
-	

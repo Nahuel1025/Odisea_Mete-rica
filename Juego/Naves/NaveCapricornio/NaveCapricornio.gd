@@ -134,6 +134,11 @@ func recibir_danio(danio: float) -> void:
 		destruir()
 		
 	impacto_sfx.play()
-		
+	
+# Señales Internas
+func _on_body_entered(body: Node) -> void:
+	if body is Meteorito:
+		body.destruir()
+		destruir()
 	
 

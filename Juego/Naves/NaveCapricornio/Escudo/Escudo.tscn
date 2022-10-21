@@ -286,10 +286,12 @@ script = ExtResource( 5 )
 energia = 2.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+visible = false
+self_modulate = Color( 0.05, 100, 0.05, 1 )
 shape = SubResource( 5 )
 
 [node name="SpriteCompleto" type="Sprite" parent="."]
-visible = false
+self_modulate = Color( 1, 7.23137, 1, 0.764706 )
 rotation = 1.5708
 texture = ExtResource( 2 )
 
